@@ -10,7 +10,6 @@ With experience founding my own startups, I enjoy participating in every aspect 
 - 🌱 I’m currently learning some smart contract coding in my free time. I have some repos about that here.
 - 👯 I’m looking to collaborate on anything related to innovation in the BIM/AEC industries. Feel free to reach out!
 - 💬 Ask me about coding for architects: BIM, Dynamo, Python, C#.
-- 📫 How to reach me: [fmaranchello@e-verse.com](mailto:fmaranchello@e-verse.com) / [LinkedIn](https://www.linkedin.com/in/franmaranchello)
 - 🤘 I have a few side projects as part of [Radical Labs](https://radical-labs.co/), where we develop digital experiences oriented towards extreme sports and related communities.
 
 <!--
