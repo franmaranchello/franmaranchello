@@ -6,7 +6,7 @@ Technology is the future of architecture and the built world. Always learning an
 
 With experience founding my own startups, I enjoy participating in every aspect of the business and design process, thanks to my broad background and interests. I'm passionate about design & technology, especially about finding common ground between the two.
 
-- 🔭 I’m currently working on several challenging projects at [e-verse](www.e-verse.com), doing my best to help the company grow in any way I can.
+- 🔭 I’m currently working on several challenging projects at [e-verse](https://e-verse.com), doing my best to help the company grow in any way I can.
 - 🌱 I’m currently learning some smart contract coding in my free time. I have some repos about that here.
 - 👯 I’m looking to collaborate on anything related to innovation in the BIM/AEC industries. Feel free to reach out!
 - 💬 Ask me about coding for architects: BIM, Dynamo, Python, C#.
