@@ -14,6 +14,8 @@ An architect who learned to code and never went back. I like building useful sof
 
 Background in BIM, design automation, and software development across the AEC industry.
 
+Former COO at **[e-verse](https://e-verse.com)**.
+
 ## Links
 
 - 🌐 **[All my links](https://linktr.ee/franmaranchello)**
