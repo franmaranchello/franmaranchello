@@ -6,7 +6,7 @@ Founder of **[Radical Labs](https://radical-labs.co)** — building AI tools and
 
 - **[Conduit](https://getconduit.us)** — AI platform that generates internal tools for AEC workflows  
 - **[RadicalX](https://radical-labs.co/radicalx)** — iOS app for the global riding community (starting with wind sports)
-- **[AI Automation Services](https://radical-labs.co/ai)** — custom AI systems to streamline company operations  
+- **[Cortex](https://radical-labs.co/ai)** — custom AI second brains to streamline company operations  
 
 ## About me
 
