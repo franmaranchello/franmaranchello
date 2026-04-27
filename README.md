@@ -1,6 +1,6 @@
 # Hi, I'm Fran 👋
 
-Founder of **[Radical Labs](https://radical-labs.co)** — building AI tools and digital products.
+Cofounder of **[Radical Labs](https://radical-labs.co)** — building AI tools and digital products.
 
 ## Currently working on
 
