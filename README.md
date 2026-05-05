@@ -1,12 +1,12 @@
 # Hi, I'm Fran 👋
 
-Cofounder of **[Radical Labs](https://radical-labs.co)** — building AI tools and digital products.
+Cofounder of **[Radical Labs](https://radical-labs.co)**, where we build AI tools and digital products.
 
 ## Currently working on
 
 - **[Conduit](https://getconduit.us)** — AI platform that generates internal tools for AEC workflows  
 - **[RadicalX](https://radical-labs.co/radicalx)** — iOS app for the global riding community (starting with wind sports)
-- **[Cortex](https://radical-labs.co/ai)** — custom AI second brains to streamline company operations  
+- **[RadicalAI](https://radical-labs.co/ai)** — custom AI second brains to streamline company operations  
 
 ## About me
 
