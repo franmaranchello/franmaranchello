@@ -10,9 +10,11 @@ Cofounder of **[Radical Labs](https://radical-labs.co)**, where we build AI tool
 
 ## About me
 
-An architect who learned to code and never went back. I like building useful software, shipping fast, and turning ideas into real products.
+I'm an architect by training, software builder by practice, and operator by temperament. 
 
-Background in BIM, design automation, and software development across the AEC industry.
+I've spent the last eight years at the intersection of AEC, BIM, tech, startups, and product development, first scaling e-verse, and now building Radical Labs.
+
+My current focus is Conduit, an AI software factory for AEC teams that turns repetitive manual workflows into deployable production tools in minutes. I'm drawn to hard, practical problems where technology can remove friction from how real teams work.
 
 Former COO at **[e-verse](https://e-verse.com)**.
 
