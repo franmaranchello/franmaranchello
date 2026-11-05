@@ -1,22 +1,18 @@
 # Hi, I'm Fran 👋
 
-Cofounder of **[Radical Labs](https://radical-labs.co)**, where we build AI software for operational industries with complex, underserved workflows.
+Architect by training, software builder by practice, and operator by temperament.
 
-## Currently working on
+I'm building **[Conduit](https://getconduit.us)**, an AI automation platform for architecture and engineering teams.
 
-- **[Conduit](https://getconduit.us)** — AI platform that generates internal tools for AEC workflows  
-- **[RadicalX](https://radical-labs.co/radicalx)** — iOS app for the global riding community (starting with wind sports)
-- **[RadicalAI](https://radical-labs.co/ai)** — custom AI second brains to streamline company operations  
+Conduit helps teams find what's already been solved, automate what hasn't, and keep their tools useful as projects change. Teams can reuse or adapt a colleague's solution, build what's missing, and share it across the firm.
 
 ## About me
 
-I'm an architect by training, software builder by practice, and operator by temperament. 
+I've spent the last eight years working across architecture, software, startups, and product development. Previously, I helped scale **[e-verse](https://e-verse.com)** as COO.
 
-I've spent the last eight years at the intersection of AEC, BIM, tech, startups, and product development, first scaling e-verse, and now building Radical Labs.
+I'm drawn to practical problems where technology can remove friction from how real teams work, especially in industries with complex, underserved workflows.
 
-My current focus is Conduit, an AI software factory for AEC teams that turns repetitive manual workflows into deployable production tools in minutes. I'm drawn to hard, practical problems where technology can remove friction from how real teams work.
-
-Former COO at **[e-verse](https://e-verse.com)**.
+Outside of Conduit, I've worked on **[RadicalX](https://radical-labs.co/radicalx)**, an iOS app for the riding community, starting with kitesurfing.
 
 ## Links
 
